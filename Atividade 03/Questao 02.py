@@ -1,7 +1,7 @@
 '''Elabore um programa para solicitar o nome de uma equipe de futebol, a
 quantidade de derrotas, empates e vitórias obtidas por ela no campeonato.
 Calcular e informar: a quantidade de pontos ganhos e a quantidade de pontos
-perdidos.'''
+perdidos e o percentual de aproveitamento da equipe.'''
 
 time = str(input('Digite o nome do time: '))
 vitorias = int(input('Digite o número de vitórias: '))
